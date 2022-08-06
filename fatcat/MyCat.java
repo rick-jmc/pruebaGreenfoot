@@ -13,10 +13,6 @@ public class MyCat extends Cat
      */
     public void act() 
     {
-     sleep(2): //durmamos un poquito
-        if (isBored()) 
-        {
-            shoutHooray():
-        }
+
     }    
 }
